@@ -1,0 +1,8 @@
+-- Ship AI Plan
+
+Move up and down the screen smoothly, with no stopping in between
+
+Fire at asteroid if it sees it in time ( meteor.x - ship.x >= ?? )
+	else chance of dodging meteor
+
+Move away from upper and lower screen boundaries smoothly
